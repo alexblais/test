@@ -16,7 +16,7 @@ appropriate version for your os and architecture.
 
 More complete instructions are available at [installing hugo](/overview/installing/)
 
-## Step 2. Build the Docs
+## Step 2. Build the Docs - cuz it rocks
 
 Hugo has its own example site which happens to also be the documentation site
 you are reading right now.
