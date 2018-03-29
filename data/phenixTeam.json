@@ -1,22 +1,22 @@
 [
-	{
-		"firstName": "Alex",
-		"lastName": "Blais",
-		"email": "ablais@phenixweb.com"
-	},
-	{
-		"firstName": "Andréanne",
-		"lastName": "Beaulieu",
-		"email": "abeaulieu@phenixweb.com"
-	},
-	{
-		"firstName": "Félix",
-		"lastName": "Hamel",
-		"email": "fhamel@phenixweb.com"
-	},
-	{
-		"firstName": "Tristan",
-		"lastName": "Fasolino",
-		"email": "tfasolino@phenixweb.com"
-	}
+  {
+    "firstName": "Alexandre",
+    "lastName": "Blais",
+    "email": "ablais@phenixweb.com"
+  },
+  {
+    "firstName": "Andréanne",
+    "lastName": "Beaulieu",
+    "email": "abeaulieu@phenixweb.com"
+  },
+  {
+    "firstName": "Félix",
+    "lastName": "Hamel",
+    "email": "fhamel@phenixweb.com"
+  },
+  {
+    "firstName": "Tristan",
+    "lastName": "Fasolino",
+    "email": "tfasolino@phenixweb.com"
+  }
 ]
